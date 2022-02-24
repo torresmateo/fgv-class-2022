@@ -54,3 +54,10 @@ def plot_graph_links_in_bits(nbits):
     
     plt.show()
     plt.close("all")
+    
+def alpha_range(n):
+    return char_range('a', chr(ord('a') + n))
+    
+def char_range(c1, c2):
+    for c in range(ord(c1), ord(c2)):
+        yield chr(c)

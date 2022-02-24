@@ -1,0 +1,14 @@
+! This is a comment, and should be ignored
+! The file has 5 space separated fields, the last field is a comment, and can contain spaces.
+field1 field2 field3 field4 field5
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
+123 0.123 456 .456 this is some comment
