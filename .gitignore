@@ -5,6 +5,9 @@ Playground.ipynb
 # Apple
 .DS_Store
 
+# Affinity designer
+*.afdesign
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
