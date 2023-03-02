@@ -25,9 +25,9 @@ def plot_distribution(a, title=""):
     plt.close("all")
     
 def plot_graph_links_in_bits(nbits):
-    fig, ax = plt.subplots(figsize = (7,7), dpi=300)
+    fig, ax = plt.subplots(figsize = (7,7), dpi=100)
     
-    x = np.arange(1000000, dtype=np.float64)
+    x = np.arange(1000000, dtype=np.int64)
     y = (x * (x-1) // 2) * (nbits)
     ax.plot(x, y, label="undirected")
     
